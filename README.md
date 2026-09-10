@@ -2,7 +2,7 @@
 
 Effective Date: September 10, 2026
 
-This Privacy Policy governs the use of the live wallpaper mobile application (hereinafter referred to as the "Application") created by Irina Ivanovskay (hereinafter referred to as the "Developer").
+This Privacy Policy governs the use of the live wallpaper mobile application (hereinafter referred to as the "Application") created by Ekaterina Pastukhova (hereinafter referred to as the "Developer").
 
 ### 1. Information Collection and Use
 The Application is designed strictly for device personalization (setting up live video wallpapers) and operates entirely offline. 
